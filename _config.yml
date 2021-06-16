@@ -103,6 +103,6 @@ theme: vexo
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://wenjinbo.github.io
+  repo: https://github.com/wenjinbo/wenjinbo.github.io
   branch: master
   
